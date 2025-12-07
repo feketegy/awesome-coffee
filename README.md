@@ -1,6 +1,6 @@
 # ☕ Awesome Coffee
 
-Awesome coffee stores and online shops in Romania and around the EU. Ordered A-Z.
+Awesome coffee stores and online shops in Romania and around the EU. Ordered A-Z by county/province and name.
 
 *Last updated: 2025-12-07*
 
