@@ -69,34 +69,14 @@ Last updated: 2025-12-07
 | [Lex Coffee](https://lexcoffee.ro/home/)                                            | ✅          | ✅             | Timiș     | Timișoara       | [General Traian Doda 3](https://maps.app.goo.gl/Ka4gUbd6uLb9Ej637)                                                                                                                                                                                                                                                            |
 | [Narativ Coffee](https://narativcoffee.ro/)                                         | ✅          | ✅             | Timiș     | Timișoara       | [Nicolae Titulescu 7](https://maps.app.goo.gl/QjR9TtVj81EAWYXF8)                                                                                                                                                                                                                                                              |
 
----
+## Hungary
 
-### Pravova
-
-- https://www.sensocoffee.ro/
-
-### Satu Mare
-
-- https://cafeadobro.ro/
-- https://www.pressco.ro/
-
-### Sibiu
-
-- https://nodprajitorie.ro/
-- https://www.roastery29.ro/
-
-### Suceava
-
-- https://caffebarbera.ro/
-- https://cameracucafea.ro/
-
-### Timis
-
-- https://narativcoffee.ro/
-- http://cafechezmoi.ro/magazin/
-
----
+| Name                                | Online Shop | Physical Store | County | City     | Location                                                  |
+| ----------------------------------- | ----------- | -------------- | ------ | -------- | --------------------------------------------------------- |
+| [Roastopus](https://roastopus.com/) | ✅          | ✅             | Somogy | Kaposvár | [Orci út 13/A](https://maps.app.goo.gl/MVKPjW4LgySXjCS9A) |
 
 ## Netherlands
 
-- https://friedhats.com/
+| Name                                | Online Shop | Physical Store | Province      | City      | Location                                                             |
+| ----------------------------------- | ----------- | -------------- | ------------- | --------- | -------------------------------------------------------------------- |
+| [FriedHats](https://friedhats.com/) | ✅          | ✅             | Noord-Holland | Amsterdam | [Bos en Lommerweg 136 HS](https://maps.app.goo.gl/DQqso4AaeTsYHW3v5) |
