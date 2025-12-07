@@ -1,111 +1,82 @@
-# ☕ Awesome Coffee 
+# ☕ Awesome Coffee
 
 Awesome coffee stores and online shops in Romania and around the EU. Ordered A-Z.
 
+Last updated: 2025-12-07
+
 ## Romania
 
-### Arad
-- https://rosters.coffee/ 
+| Name                                                                                | Online Shop | Physical Store | County    | City            | Location                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------- | ----------- | -------------- | --------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Rosters Coffee](https://rosters.coffee/)                                           | ✅          | ❌             | Arad      | Arad            |                                                                                                                                                                                                                                                                                                                               |
+| [Cafegiu](https://cafegiu.ro/)                                                      | ✅          | ✅             | Argeș     | Pitești         | [Calea București 2](https://maps.app.goo.gl/pA42eNcDAFfmby6n9), [Justiției 1](https://maps.app.goo.gl/yruqHcnxk95MMj2n6)                                                                                                                                                                                                      |
+| [Ecuator Cafe](https://ecuatorcafe.ro/)                                             | ✅          | ✅             | Argeș     | Pitești         | [Calea Craiovei 32](https://maps.app.goo.gl/XoCvG2LEQNJesotV7)                                                                                                                                                                                                                                                                |
+| [Pretty Good Coffee](https://prettygoodcoffee.ro/)                                  | ✅          | ❌             | Argeş     | Curtea de Argeş |                                                                                                                                                                                                                                                                                                                               |
+| [Barshaker](https://barshaker.ro/food-and-drinks/cafea-boabe-cafea-de-specialitate) | ✅          | ❌             | Bihor     | Oradea          |                                                                                                                                                                                                                                                                                                                               |
+| [Guava Coffee Roasters](https://guava.coffee/)                                      | ✅          | ❌             | Bihor     | Oradea          |                                                                                                                                                                                                                                                                                                                               |
+| [Făbricuța de cafea](https://www.facebook.com/StravaganteMia/)                      | ❌          | ✅             | Botoșani  | Botoșani        | [Primaverii 23](https://maps.app.goo.gl/iGVST3Ypj2o9GnTU6)                                                                                                                                                                                                                                                                    |
+| [Artizanalia](https://www.artizanalia.ro/)                                          | ✅          | ❌             | Brașov    | Sânpetru        |                                                                                                                                                                                                                                                                                                                               |
+| [Breakaway](https://breakaway.coffee/)                                              | ✅          | ✅             | Brașov    | Brașov          | [Camil Petrescu 3](https://maps.app.goo.gl/Lm9Qjgrn5SXuz9cTA)                                                                                                                                                                                                                                                                 |
+| [Spired Roastery](https://www.spired.ro/)                                           | ✅          | ✅             | Brașov    | Brașov          | [Lunga 130](https://maps.app.goo.gl/iPmZU4L8Yg9kKrxi9)                                                                                                                                                                                                                                                                        |
+| [ZATZ Coffee House](https://www.instagram.com/zatz.coffeehouse/)                    | ❌          | ✅             | Brașov    | Brașov          | [Plevnei 1](https://maps.app.goo.gl/ZEH2bapRKqTvF91i8)                                                                                                                                                                                                                                                                        |
+| [Bob Coffee Lab](https://bob.coffee/)                                               | ✅          | ✅             | București | București       | [Charles de Gaulle 3](https://maps.app.goo.gl/oceBNBV3NwX7rBX27), [Băneasa Shopping City](https://maps.app.goo.gl/qg9iJeQL3KYEiMMy6), [Lipscani 20](https://maps.app.goo.gl/pkLapzpsESXWpiuN7), [Bdul.Titulescu 4-8](https://maps.app.goo.gl/fB1s4odR7B3b9Uxy8), [Academiei 18-20](https://maps.app.goo.gl/BxzFp2ZUoozDmmqh8) |
+| [Cascara Coffee Roastery](https://cascaracoffee.ro/)                                | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Claro](https://www.clarocafe.ro/)                                                  | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Constantin Coffee Roasters](https://www.constantincoffee.ro/)                      | ✅          | ✅             | București | Mogoșoaia       | [Buiacului 21](https://maps.app.goo.gl/bceLWB84uPaYNCtL9)                                                                                                                                                                                                                                                                     |
+| [Contego Cafe](https://www.contegocafe.ro/)                                         | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Delicatese Florescu](https://www.delicateseflorescu.ro/)                           | ✅          | ✅             | București | București       | [Radu Cristian 6](https://maps.app.goo.gl/F4DcAg52tXArUiwb9)                                                                                                                                                                                                                                                                  |
+| [Edream](https://edream.ro/categorie-produs/cafea/)                                 | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Ethnic Plantation Coffee](https://www.ethnicplantationcoffee.ro/)                  | ✅          | ✅             | București | București       | [Dristorului 4](https://maps.app.goo.gl/yAUobKPPnDcvo8tg9)                                                                                                                                                                                                                                                                    |
+| [Guido Coffee](https://guido.ro/)                                                   | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Mabó](https://www.mabo.coffee/)                                                    | ✅          | ✅             | București | București       | [Petru Rareș 12](https://maps.app.goo.gl/aKPkcarzWsV7hxN1A), [Vulturilor 31](https://maps.app.goo.gl/78TpfSUk3PSinbpbA), [Metalurgiei 61c](https://maps.app.goo.gl/q8dcRGHZZdTjjC8e6)                                                                                                                                         |
+| [Manufaktura](https://manufakturacafe.ro)                                           | ✅          | ✅             | București | București       | []()                                                                                                                                                                                                                                                                                                                          |
+| [Origo Coffee](https://origocoffee.ro/)                                             | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Papa Jacques](https://www.papajacques.ro/)                                         | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Prǎjitoria Buimac](https://prajitoria-buimac.ro/)                                  | ✅          | ✅             | București | București       | [Icoanei 23](https://maps.app.goo.gl/G9LDiKq6tjnKsLxG7)                                                                                                                                                                                                                                                                       |
+| [Sarkis Cafe](https://www.sarkiscafe.ro/)                                           | ✅          | ✅             | București | București       | [Dacia 94](https://maps.app.goo.gl/3ZjNaNt7oPUV5g9dA)                                                                                                                                                                                                                                                                         |
+| [Sloane Coffee](https://sloanecoffee.com/)                                          | ✅          | ✅             | București | București       | [Splaiul Independenței 287](https://maps.app.goo.gl/bUG68a7T8nDeyM5H8), [Calea Victoriei 31](https://maps.app.goo.gl/jWcey8Q45z9fUJzG8)                                                                                                                                                                                       |
+| [Tastecrafters](https://www.tastecrafters.ro/)                                      | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Urban Vibe Roastery](https://www.urban-vibe-roastery.ro/)                          | ✅          | ❌             | București | București       |                                                                                                                                                                                                                                                                                                                               |
+| [Uzina Coffee](https://uzinacoffee.ro/)                                             | ✅          | ✅             | București | București       | [Piața Amzei 5](https://maps.app.goo.gl/qrjZwPbvuRgesHSD8)                                                                                                                                                                                                                                                                    |
+| [Blu Coffee](https://blu.coffee/)                                                   | ✅          | ❌             | Cluj      | Cluj Napoca     |                                                                                                                                                                                                                                                                                                                               |
+| [Cofeels](https://cofeels.ro/)                                                      | ✅          | ✅             | Cluj      | Cluj Napoca     | [Gheorghe Șincai 9](https://maps.app.goo.gl/td1x1MYP3agnPHyU6)                                                                                                                                                                                                                                                                |
+| [Embu Coffee](https://embu-coffee.ro/)                                              | ✅          | ❌             | Cluj      | Cluj Napoca     |                                                                                                                                                                                                                                                                                                                               |
+| [Hot Pipes Roastery](https://hotpipes.ro/)                                          | ✅          | ✅             | Cluj      | Cluj Napoca     | [Cireșilor 84](https://maps.app.goo.gl/PfS9QCmJykjMfX2o8)                                                                                                                                                                                                                                                                     |
+| [il Caffé](https://www.ilcaffe.ro/)                                                 | ✅          | ✅             | Cluj      | Cluj Napoca     | [Constantin Brâncuși 12A](https://maps.app.goo.gl/DfNqHDQrPHCaXwo79)                                                                                                                                                                                                                                                          |
+| [Meron](https://meron.ro/)                                                          | ✅          | ❌             | Cluj      | Cluj Napoca     |                                                                                                                                                                                                                                                                                                                               |
+| [Olivo Coffee Culture](https://olivocoffeeculture.com/)                             | ✅          | ❌             | Cluj      | Cluj Napoca     |                                                                                                                                                                                                                                                                                                                               |
+| [Urban Coffee](https://www.urbancoffee.ro/)                                         | ✅          | ❌             | Cluj      | Cluj Napoca     |                                                                                                                                                                                                                                                                                                                               |
+| [Yume](https://yume.coffee/)                                                        | ✅          | ✅             | Cluj      | Cluj Napoca     | [Victor Babeș 21](https://maps.app.goo.gl/Q68u5514hHHCopn9A)                                                                                                                                                                                                                                                                  |
+| [Haute Cup](https://hautecup.ro/)                                                   | ✅          | ❌             | Constanța | Constanța       |                                                                                                                                                                                                                                                                                                                               |
+| [Hedone Cafe](https://www.hedonecafe.ro/)                                           | ✅          | ❌             | Dolj      | Craiova         |                                                                                                                                                                                                                                                                                                                               |
+| [Muse Coffee](https://www.musecoffee.ro/)                                           | ✅          | ❌             | Dolj      | Craiova         |                                                                                                                                                                                                                                                                                                                               |
+| [The Refresh](https://therefresh.ro/)                                               | ✅          | ✅             | Hunedoara | Deva            | [1 Decembrie 1918 Nr. 18](https://maps.app.goo.gl/B56tFnsxt2o52xBk7)                                                                                                                                                                                                                                                          |
+| [Capuchin](https://capuchin.ro/)                                                    | ✅          | ✅             | Iași      | Iași            | [Ștefan cel Mare și Sfânt 8](https://maps.app.goo.gl/pz7ZC42XaDLoGRCQ6), [Șoseaua Păcurari](https://maps.app.goo.gl/CQ8TQfnnRRLDFsQH8)                                                                                                                                                                                        |
+| [Coffee Story](https://coffeestory.ro/)                                             | ✅          | ✅             | Iași      | Iași            | [Sfântul Lazăr 30](https://maps.app.goo.gl/1Knut3Lj9kcEDsQS7)                                                                                                                                                                                                                                                                 |
+| [Maison du Café](https://maisonducafe.ro/)                                          | ✅          | ❌             | Iași      | Iași            |                                                                                                                                                                                                                                                                                                                               |
+| [Opya](https://opya.ro/)                                                            | ✅          | ❌             | Iași      | Iași            |                                                                                                                                                                                                                                                                                                                               |
+| [Arusha](https://arusha.ro/)                                                        | ✅          | ❌             | Maramureș | Baia Mare       |                                                                                                                                                                                                                                                                                                                               |
+| [Cafea Dobro](https://cafeadobro.ro/)                                               | ✅          | ✅             | Maramureș | Baia Mare       | [Andrei Mureşanu 25](https://maps.app.goo.gl/xKjY11r4yUF5Ks2y7)                                                                                                                                                                                                                                                               |
+| [Pressco](https://pressco.ro/)                                                      | ✅          | ❌             | Maramureș | Baia Mare       |                                                                                                                                                                                                                                                                                                                               |
+| [112 Coffee](https://112coffee.com/)                                                | ✅          | ✅             | Mureș     | Târgu Mureș     | [George Enescu 2](https://maps.app.goo.gl/SVtw1dEnsuM5CYYY7)                                                                                                                                                                                                                                                                  |
+| [Drops Coffee](https://dropscoffee.ro/)                                             | ✅          | ✅             | Mureș     | Târgu Mureș     | [Transilvania 20-22](https://maps.app.goo.gl/8ATUt5pX7REZSx6A6)                                                                                                                                                                                                                                                               |
+| [Hug'n Sip](https://www.facebook.com/p/Hugn-Sip-61573966777726/)                    | ❌          | ✅             | Mureș     | Târgu Mureș     | [Piața Victoriei 10](https://maps.app.goo.gl/mCc2ERkhxx2p2UteA)                                                                                                                                                                                                                                                               |
+| [NOD Prăjitoria de Cafea](https://nodprajitorie.ro/)                                | ✅          | ✅             | Sibiu     | Sibiu           | [Movilei 2](https://maps.app.goo.gl/q3FnRxc9F1F1bmRu5)                                                                                                                                                                                                                                                                        |
+| [Roastery 29](https://www.roastery29.ro/)                                           | ✅          | ✅             | Sibiu     | Sibiu           | [Gheorghe Dima 1](https://maps.app.goo.gl/Ggw97Rsur8DbiJ1s5)                                                                                                                                                                                                                                                                  |
+| [Caffe Barbera](https://caffebarbera.ro/)                                           | ✅          | ❌             | Suceava   | Suceava         |                                                                                                                                                                                                                                                                                                                               |
+| [Camera cu Cafea](https://cameracucafea.ro/)                                        | ✅          | ✅             | Suceava   | Suceava         | [Ștefan cel Mare 26](https://maps.app.goo.gl/3gN2hXWAarz8Fo2f9)                                                                                                                                                                                                                                                               |
+| [Cafe Chez Moi](http://cafechezmoi.ro/)                                             | ✅          | ❌             | Timiș     | Timișoara       |                                                                                                                                                                                                                                                                                                                               |
+| [Lex Coffee](https://lexcoffee.ro/home/)                                            | ✅          | ✅             | Timiș     | Timișoara       | [General Traian Doda 3](https://maps.app.goo.gl/Ka4gUbd6uLb9Ej637)                                                                                                                                                                                                                                                            |
+| [Narativ Coffee](https://narativcoffee.ro/)                                         | ✅          | ✅             | Timiș     | Timișoara       | [Nicolae Titulescu 7](https://maps.app.goo.gl/QjR9TtVj81EAWYXF8)                                                                                                                                                                                                                                                              |
 
-### Arges
-- https://ecuatorcafe.ro/
-- https://cafegiu.ro/
-- https://prettygoodcoffee.ro/
+## Hungary
 
-### Bacau
-- https://delsolcafe.ro/
-
-### Bihor
-- https://guava.coffee/
-- https://barshaker.ro/food-and-drinks/cafea-boabe-cafea-de-specialitate
-
-### Brasov
-- https://www.artizanalia.ro/
-- https://breakaway.coffee/
-- https://www.spired.ro/
-
-### Bucuresti
-- https://coffeestore.ro/
-- https://www.delicateseflorescu.ro/
-- https://www.tastecrafters.ro/ 
-- https://www.clarocafe.ro/
-- https://sloanecoffee.com/
-- https://www.ethnicplantationcoffee.ro/
-- https://guido.ro/
-- https://www.mabo.coffee/
-- https://www.sarkiscafe.ro/
-- https://www.contegocafe.ro/
-- https://uzinacoffee.ro/
-- https://prajitoria-buimac.ro/
-- https://www.papajacques.ro/
-- https://manufakturacafe.ro/coffee-shop/
-- https://origocoffee.ro/
-- https://www.bob.coffee/
-- https://www.constantincoffee.ro/
-- https://cascaracoffee.ro/
-- https://www.urban-vibe-roastery.ro/
-- https://manufakturacafe.ro/coffee-shop/
-- https://edream.ro/categorie-produs/cafea/
-
-### Dolj
-- https://www.hedonecafe.ro/
-- https://www.musecoffee.ro/
-
-### Hunedoara
-- https://therefresh.ro/
-
-### Iasi
-- https://coffeestory.ro/
-- https://maisonducafe.ro/
-- https://prajitoria.ro/
-- https://opya.ro/
-
-### Cluj
-- https://hotpipes.ro/
-- https://www.urbancoffee.ro/
-- https://yume.coffee/
-- https://www.meron.coffee/
-- https://blu.coffee/
-- https://olivocoffeeculture.com/
-- https://www.ilcaffe.ro/
-- https://embu-coffee.ro/
-- https://www.instagram.com/ukyo.coffee/
-
-### Constanta
-- https://www.hautecup.ro/
-
-### Maramures
-- https://arusha.ro/
-
-### Mures
-- https://112coffee.com/
-- https://dropscoffee.ro/
-- https://www.facebook.com/p/Hugn-Sip-61573966777726/
-- https://www.facebook.com/mrpopscoffee/
-- https://www.instagram.com/ukyo.coffee/
-
-### Pravova
-- https://www.sensocoffee.ro/
-
-### Satu Mare
-- https://cafeadobro.ro/
-- https://www.pressco.ro/
-
-### Sibiu
-- https://nodprajitorie.ro/
-- https://www.roastery29.ro/
-
-### Suceava
-- https://caffebarbera.ro/
-- https://cameracucafea.ro/
-
-### Timis
-- https://narativcoffee.ro/
-- http://cafechezmoi.ro/magazin/
-
-
-------
+| Name                                | Online Shop | Physical Store | County | City     | Location                                                  |
+| ----------------------------------- | ----------- | -------------- | ------ | -------- | --------------------------------------------------------- |
+| [Roastopus](https://roastopus.com/) | ✅          | ✅             | Somogy | Kaposvár | [Orci út 13/A](https://maps.app.goo.gl/MVKPjW4LgySXjCS9A) |
 
 ## Netherlands
 
-- https://friedhats.com/
+| Name                                | Online Shop | Physical Store | Province      | City      | Location                                                             |
+| ----------------------------------- | ----------- | -------------- | ------------- | --------- | -------------------------------------------------------------------- |
+| [FriedHats](https://friedhats.com/) | ✅          | ✅             | Noord-Holland | Amsterdam | [Bos en Lommerweg 136 HS](https://maps.app.goo.gl/DQqso4AaeTsYHW3v5) |
